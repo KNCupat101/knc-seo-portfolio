@@ -96,13 +96,17 @@ export const certificationsData = [
     id: 1,
     title: "Ahrefs Certified Specialist",
     issuer: "Marketing Intelligence Platform",
-    period: "2025 – 2026"
+    period: "2025 – 2026",
+    logo: "https://ahrefs.com/assets/esbuild/primary-light-H2PY2LGX.png",
+    link: "https://ahrefs.com/academy/certificate/52e75cc892e94abaafa1ec823296454f"
   },
   {
     id: 2,
     title: "Google Analytics Certified",
     issuer: "Google Skillshop",
-    period: "2025 – 2026"
+    period: "2025 – 2026",
+    logo: "https://developers.google.com/static/analytics/images/terms/lockup_ic_Analytics_horiz_272px_clr.png",
+    link: "https://skillshop.credential.net/4459341a-dc2f-4df9-8d74-9cc1b60da1d1#acc.u8MXEQCh"
   }
 ];
 
@@ -177,7 +181,7 @@ export const caseStudiesData = [
 
 export const contactInfo = {
   location: "Philippines (Remote-Friendly)",
-  email: "kenneth.cupat@email.com",
-  linkedin: "https://www.linkedin.com/in/kenneth-cupat",
-  upwork: "https://www.upwork.com/freelancers/kennethcupat"
+  email: "kenneththegreat102@gmail.com",
+  linkedin: "https://www.linkedin.com/in/kenneth-noel-cupat-88b742195/",
+  upwork: "https://www.upwork.com/freelancers/~01c71ec36efe9683a8?mp_source=share"
 };
